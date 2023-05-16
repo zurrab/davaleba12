@@ -1,0 +1,14 @@
+@font-face{
+    font-family:"inter";
+    src: url("./fonts/Inter-Bold.ttf");
+}
+.text-1{
+    color: white;
+    font-family: "inter";
+    font-size: 16px;
+    
+}
+.container{
+    Width:1440px;
+    Height:1024px;
+}
